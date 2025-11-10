@@ -1,0 +1,9 @@
+# Ignore VS Code settings (if it appears later)
+.vscode/
+
+# Ignore CSVs and data folder
+*.csv
+csv_files/
+
+# macOS cruft
+.DS_Store
