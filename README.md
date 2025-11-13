@@ -141,7 +141,8 @@ ORDER BY
 LIMIT 25;
 
 ```
-<img width="971" height="631" alt="Screenshot 2025-11-12 at 10 02 40 PM" src="https://github.com/user-attachments/assets/5d449c01-151b-4955-9bce-1b8c15ed5157" />
+<img width="963" height="629" alt="Screenshot 2025-11-13 at 3 46 28 PM" src="https://github.com/user-attachments/assets/da742389-60c5-4343-b9d1-a25e2d681fe9" />
+
 
 ### 5. Most Optimal Skills to Learn
 
