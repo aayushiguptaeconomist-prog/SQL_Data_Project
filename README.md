@@ -4,7 +4,7 @@ Welcome to my SQL Portfolio Project, where I delve into the data job market with
 
 Check out my SQL queries here: [project_sql](https://github.com/aayushiguptaeconomist-prog/SQL_Data_Project/tree/0fd51124026ea7dfeeb48baa7d14d9ce05ce14d4/project_sql). 
 
-Check out my Tableau Dashboard visualizing salary trends and demand frequency trends for data analyst skills: https://public.tableau.com/views/Book1_17630093381640/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Check out my Tableau Dashboard visualizing salary trends and demand frequency trends for data analyst skills: [https://public.tableau.com/views/Book1_17630093381640/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DataAnalystInsights_17630728072080/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Background**
 
